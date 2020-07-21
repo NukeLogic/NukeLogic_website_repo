@@ -1,1 +1,2 @@
 test file
+This is modification made to the file - 02
